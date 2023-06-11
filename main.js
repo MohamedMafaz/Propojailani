@@ -1,4 +1,4 @@
-import Bard, { askAI } from "./bard-ai";
+import Bard, { askAI } from "/bard-ai";
 
 await Bard.init("XQiIjGefHBGXO_fJH7_H9WpGimggRbpseEJOaQQugmoDjZLaUS2Tr1Dw_HKnrarPFCFInQ.");
 
